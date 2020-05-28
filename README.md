@@ -15,7 +15,7 @@ This is a Web App Visualizer of Neural Networks with MNIST dataset using Keras, 
 
 * Run all the cells of "Main Notebook".(Make sure you have installed all the requirements)
 
-* Open the two terminals
+* Open the two terminals.
 
 * Type "python ml_server.py"(for windows)/"python3 ml_server.py"(linux) in one terminal as show below:
 
@@ -31,8 +31,8 @@ This is a Web App Visualizer of Neural Networks with MNIST dataset using Keras, 
 
 ![Screenshot](/images/web_app.png)
 
-* Click on "generate random number" and you'll visualize the Layer wise Neural Networks, final layer displaying the prediction of the model
+* Click on "Get random prediction" and you'll visualize the Layer wise Neural Networks, final layer displaying the prediction of the model.
 
-* Note: More the lighter/darker the block shown is, more sure the model is about that block
+* Note: More the lighter/darker the block shown is, more sure the model is about that block.
 
-* For ex: in the image shown above in the last layer model shows 4 and 9 as most probable choices but it is more sure about 9 than 4 therefore it makes 9 more lighter as compared to 4
+* For ex: in the image shown above in the last layer model shows 4 and 9 as most probable choices but it is more sure about 9 than 4 therefore it makes 9 more lighter as compared to 4.
