@@ -15,13 +15,13 @@ This is a Web App Visualizer of Neural Networks with MNIST dataset using Keras, 
 
 * Run all the cells of "Main Notebook".(Make sure you have installed all the requirements)
 
-* Open the two terminals.
+* Open two terminals.
 
-* Type "python ml_server.py"(for windows)/"python3 ml_server.py"(linux) in one terminal as show below:
+* Type "python ml_server.py"(windows)/"python3 ml_server.py"(linux) in one terminal as show below:
 
 ![Screenshot](/images/ml_server.PNG)
 
-* Open the show local host post and check if the server is successfully connected or not.
+* Open the shown local host port and check if the server is successfully connected or not.
 
 * Type "streamlit run app.py" in another terminal as show below:
 
@@ -31,7 +31,7 @@ This is a Web App Visualizer of Neural Networks with MNIST dataset using Keras, 
 
 ![Screenshot](/images/web_app.png)
 
-* Click on "Get random prediction" and you'll visualize the Layer wise Neural Networks, final layer displaying the prediction of the model.
+* Click on "Get random prediction" and you'll visualize the Layer wise Neural Networks of which layer 3 displaying the prediction of the model.
 
 * Note: More the lighter/darker the block shown is, more sure the model is about that block.
 
